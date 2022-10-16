@@ -2,14 +2,18 @@
 CIP: ?  
 Title: CNFT Community Royalties Standard 
 Authors: NFT Guild <cardanonftguild@gmail.com>, CENT Stake Pool <social@cent.stakepoolcentral.com>, Filip Blagojević <filip.blagojevic12@gmail.com>  
-Discussions-To: https://forum.cardano.org/t/cip-royalties/68599   
-Comments-URI: https://forum.cardano.org/t/cip-royalties/68599
+Discussions-To: <URL or email address>  
+Comments-Summary: <summary tone>  
+Comments-URI: <links to wiki page for comments>  
 Status: Draft  
 Type: Informational
-Created: 2022-10-16  
-License: CC-BY-4.0   
-Requires: CIP 25  
-Replaces: CIP 27  
+Created: <date created on, in ISO 8601 (yyyy-mm-dd) format>  
+* License: <abbreviation for approved license(s)>  
+* License-Code: <abbreviation for code under different approved license(s)>  
+* Post-History: <dates of postings to Cardano Dev Forum, or link to thread>  
+* Requires: <CIP number(s)>  
+* Replaces: <CIP number>  
+Superseded-By: <CIP number>
 ---
 This is the suggested template for new CIPs.
   
@@ -23,7 +27,7 @@ RFC 822 style headers containing metadata about the CIP, including the CIP numbe
 
 ## Simple Summary
 
-Royalties are an important part of the Cardano NFT ecosystem and its sustainability. They are one of the main ways to continuously fund project creators, authors and artists through sales on the secondary market and, if implemented correctly, remove the need for outside funding. This CIP proposes an update to CIP 27 which has not really been adopted by the community. The aim is to have a simple, easy to use standard that supports distributing royalties to multiple addresses and updateable royalties.
+If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the CIP.
 
 ## Abstract
 
