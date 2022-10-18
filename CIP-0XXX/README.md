@@ -11,15 +11,6 @@ License: CC-BY-4.0
 Requires: CIP 25  
 Replaces: CIP 27  
 ---
-This is the suggested template for new CIPs.
-  
-Note that a CIP number will be assigned by an editor. When opening a pull request to submit your CIP, please use an abbreviated title in the filename, cip-johndoe-banktheunbanked.md.
-
-The title should be 44 characters or less.
-
-## Preamble
-
-RFC 822 style headers containing metadata about the CIP, including the CIP number, a short descriptive title (limited to a maximum of 44 characters), the names, and optionally the contact info for each author, etc.
 
 ## Simple Summary
 
