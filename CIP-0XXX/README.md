@@ -39,7 +39,7 @@ We are expanding the 777 token described in CIP 27 simply by stating that more t
 		"rate": [
             "0.1",
             "0.12",
-            "0.05]
+            "0.05];
 		"addr": [
 			"addr1q8g3dv6ptkgsafh7k5muggrvfde2szzmc2mqkcxpxn7c63l9znc9e3xa82h",
 			"pf39scc37tcu9ggy0l89gy2f9r2lf7husfvu8wh",
@@ -58,7 +58,7 @@ In this example following royalties are applied to following addresses:
 | -------- | ------------------------------------------------------------------------------------------------------- |
 | 10%      | addr1q8g3dv6ptkgsafh7k5muggrvfde2szzmc2mqkcxpxn7c63l9znc9e3xa82hpf39scc37tcu9ggy0l89gy2f9r2lf7husfvu8wh |
 | 12%      | addr1q8l6e8chpp2hna268ktg3tu6l37qe3e3n8qez9csjxw75s8l4j03wzz4086450vk3zhe4lrupnrnrxwpjyt3pyvaafqqc94x78 |
-| 10%      | addr1qycgag4mkeghnhfa2dcm9pgqrdnteu6t6rh7exkz8r6cdhutz5rw6ughfl3z0ct20ayusyaqkzwvwssgjce83re3xwvqe09gm4 |
+| 5%       | addr1qycgag4mkeghnhfa2dcm9pgqrdnteu6t6rh7exkz8r6cdhutz5rw6ughfl3z0ct20ayusyaqkzwvwssgjce83re3xwvqe09gm4 |
 
 Addresses are broken up in 2 array elements because of 64 character per line limitation.
 
